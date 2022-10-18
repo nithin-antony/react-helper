@@ -1,0 +1,7 @@
+.todos {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  padding: 15px;
+}
